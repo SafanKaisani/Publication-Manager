@@ -11,3 +11,7 @@ __pycache__/
 
 # Ignore local server binary if not needed
 uvicorn
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
